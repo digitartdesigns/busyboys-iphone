@@ -1,4 +1,4 @@
 $(document).ready(function() {
-var url = "http://busyboysroofing.com";  
-$(location).attr('href',url);
+var url = "http://busyboysroofing.com/?app";  
+ $(location).attr('href',url);
 });
